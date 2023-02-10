@@ -1,17 +1,16 @@
-
-@media screen and (min-width: 480px){
-    body {
-        background-color: green;
-    }
+@media screen and (min-width: 480px) {
+  body {
+    background-color: green;
+  }
 }
 
-body{
-    background-color: blue;
+body {
+  /* background-color: blue; */
 }
-#welcome-section{
-    height: 1vh;
+#welcome-section {
+  height: 1vh;
 }
 
-#navbar{
-    position:fixed;
+#navbar {
+  position: fixed;
 }
